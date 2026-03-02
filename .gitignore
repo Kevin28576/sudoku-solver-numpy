@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Application-specific
+sudoku_results*.txt
+input.txt
+sudoku.txt
+
+# Exclude this personal script
+bot.py
